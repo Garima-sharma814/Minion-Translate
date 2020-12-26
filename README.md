@@ -6,5 +6,5 @@ If you have watched "Despaciable Me" you might already know who are Minions and 
 
 - This translator translate your text to this Minion Language. 
 
-##Fun fact
+## Fun fact
 - Looney Tunes played a role in the evolution of Gru's henchmen, whose language consists of French, Spanish, Italian and some food references.
