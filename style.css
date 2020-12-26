@@ -48,7 +48,7 @@ button{
     border-width: 0.25em;
     border-style: outset;
     font-weight: bold;
-    font-size: 20px;
+/*     font-size: 20px; */
 }
 
 .btn:hover{
