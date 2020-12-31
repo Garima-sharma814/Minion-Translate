@@ -111,3 +111,23 @@ a:hover{
     font-family: 'PT Sans Narrow', sans-serif;
     font-size: small;
 }
+
+
+.button:hover{
+    background-color: white;
+}
+
+.link{
+    box-sizing: border-box;
+    /* border: solid; */
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    color:rgb(233, 233, 45);
+}
+
+.primary-link{
+    background-color: rgb(219, 219, 61);
+    border-radius: 0.5rem;
+    color: black;
+    font-family: 'Noto Serif', serif;
+}
