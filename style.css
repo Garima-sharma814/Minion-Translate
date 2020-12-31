@@ -123,6 +123,7 @@ a:hover{
     text-decoration: none;
     padding: 0.5rem 1rem;
     color:rgb(233, 233, 45);
+    
 }
 
 .primary-link{
@@ -130,4 +131,7 @@ a:hover{
     border-radius: 0.5rem;
     color: black;
     font-family: 'Noto Serif', serif;
+    border-color: black;
+    border-style: solid;
+    border-width: 0.1rem;
 }
